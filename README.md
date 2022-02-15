@@ -1,5 +1,5 @@
 # STAT-201-Group-project
-Group member:
+Group member: </b>
 
 Siddharth Nand (He/Him/His)
 Charul Maheshka
