@@ -1,7 +1,7 @@
 # STAT-201-Group-project
 **Group member:**
 
-Siddharth Nand (He/Him/His)   
+Siddharth Nand
 Charul Maheshka   
 Winston ONG   
 Simon Liang   
