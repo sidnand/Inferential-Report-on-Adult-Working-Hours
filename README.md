@@ -1,10 +1,3 @@
-# STAT-201-Group-project
+# How the Number of Hours Worked Differs Based on a Person's Marital Status, Education and Work-class
 
-**Group member:**
-
-Siddharth Nand   
-Charul Maheshka   
-Winston ONG   
-Simon Liang   
-
-### **Currenly on project proposal**
+Report using statistical inference to study how adult working hours are affected by various categorical variables.
